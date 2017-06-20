@@ -1,0 +1,23 @@
+.bannieretop img {
+  height: 200px;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+}
+
+.bannierefooter img {
+  height: 200px;
+  width: 100%;
+  bottom: 0px;
+
+}
+
+.placeholder {
+  height: 200px;
+  width: 100%;
+}
+
+#logo {
+  text-align: center;
+}
